@@ -3,7 +3,7 @@ LibRaw
 
 This library is a part of [Bacon Camera](https://www.baconcamera.com) and it provides a wrapper to LibRaw in Android platform.
 
-LibRaw is a library for reading RAW files from digital photo cameras 
+[LibRaw](https://github.com/LibRaw/LibRaw) is a library for reading RAW files from digital photo cameras 
 (CRW/CR2, NEF, RAF, DNG, MOS, KDC, DCR, etc, virtually all RAW formats are 
 supported). 
 
