@@ -16,7 +16,7 @@ other programs using RAW files as the initial data.
 License
 ---
 
-LibRaw library, Copyright (C) 2008-2016 LibRaw LLC (info@libraw.org)
+**LibRaw** library, Copyright (C) 2008-2016 LibRaw LLC (info@libraw.org)
 The library includes source code from
       
      dcraw.c, Dave Coffin's raw photo decoder
@@ -33,7 +33,9 @@ both two licensing modes for your changes/additions.
 
 ---
 
-RawUtils Copyright (C) 2015 George Kiarie
+**RawUtils** is a part of [FreeDcam](https://github.com/troop/FreeDcam) project.
+
+Copyright (C) 2015 George Kiarie
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
